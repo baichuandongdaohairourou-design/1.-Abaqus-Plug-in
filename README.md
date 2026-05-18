@@ -1,12 +1,5 @@
 # Abaqus Param Runner
 
-版本都放在 `versions` 文件夹里。
-
-当前版本：
-
-```text
-versions\v1.4.4
-```
 
 启动方式：
 
@@ -28,21 +21,8 @@ versions\v1.4.4
 
 `run_debug.bat` 会把 Python 路径、Python 版本、语法检查结果和报错信息显示出来，窗口不会立刻关闭。
 
-## 复制到其他电脑
 
-推荐复制这个压缩包：
-
-```text
-dist\AbaqusParamRunner_1.4.4_portable.zip
-```
-
-到另一台电脑后，解压，双击：
-
-```text
-run_latest.bat
-```
-
-目标电脑需要：
+需要：
 
 - Windows
 - Python 3，且安装时勾选 Tcl/Tk 或 tcl/tk and IDLE
