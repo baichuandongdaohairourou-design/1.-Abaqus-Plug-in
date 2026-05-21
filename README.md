@@ -52,3 +52,7 @@ C:\SIMULIA\Commands\abq2023.bat
 ```
 
 不同版本名称可能不同，选择你电脑里真实存在的 `.bat/.cmd/.exe` 即可。
+
+```text
+添加弹窗提醒
+```
