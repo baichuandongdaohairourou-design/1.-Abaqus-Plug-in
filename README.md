@@ -55,3 +55,5 @@ C:\SIMULIA\Commands\abq2023.bat
 
 - 添加弹窗提醒
 - 增加 job 默认名称
+1.4.10更新
+  - 能够识别inp中不同材料的属性
